@@ -2,8 +2,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=BrianTV98&count_private=true&show_icons=true&theme=radical)
 
 
-🔭 I’m currently working IT freelancer
-🌱 I'm research Flutter ML
 💬 How to reach me: email: tranhieuglpk@gmail.com
 
 <!--
