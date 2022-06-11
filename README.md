@@ -10,6 +10,7 @@ Flutter My Lib:
   * Branch Component:
   * IDE download:
   * Tool code gen.
+  * Easy queue
 
 
 
