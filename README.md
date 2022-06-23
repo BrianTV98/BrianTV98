@@ -5,12 +5,12 @@
 💬 How to reach me: email: tranhieuglpk@gmail.com
 
 Flutter My Lib: 
-  * [Slider captchar :][slider_captcha_link]
-  * Flash card: 
+  * [Slider captchar][slider_captcha_link]  [Link Demo][slider_link_demo]
+  * [Flash card][flash_card_link] 
   * Branch Component:
   * IDE download:
-  * Tool code gen.
-  * Easy queue
+  * [Tool code gen][tool_code_gen]]
+  * [Easy queue][easy_queue_link]
 
 
 
@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [slider_captcha_link]:<https://github.com/BrianTV98/slider_captcha>
+[slider_link_demo]:<https://www.fluwix.com/slider_captcha_showcase>
+[flash_card_link]:<https://github.com/BrianTV98/flash_card>
+[tool_code_gen]:<https://briantv98.github.io/flutter_tool_gen/>
+[easy_queue_link]:<https://github.com/BrianTV98/easy_queue>
