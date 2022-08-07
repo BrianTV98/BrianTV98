@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 -->
 [slider_captcha_link]:<https://pub.dev/packages/slider_captcha>
 [slider_link_demo]:<https://www.fluwix.com/slider_captcha_showcase>
-[flash_card_link]:<https://github.com/BrianTV98/flash_card>
+[flash_card_link]:<https://pub.dev/packages/flash_card>
 [tool_code_gen]:<https://briantv98.github.io/flutter_tool_gen/>
 [easy_queue_link]:<https://pub.dev/packages/easy_queue>
 [branch_component]:<https://github.com/BrianTV98/branch_component.git>
