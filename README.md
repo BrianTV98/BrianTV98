@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 [flash_card_link]:<https://pub.dev/packages/flash_card>
 [tool_code_gen]:<https://briantv98.github.io/flutter_tool_gen/>
 [easy_queue_link]:<https://pub.dev/packages/easy_queue>
-[branch_component]:<https://github.com/BrianTV98/branch_component.git>
+[branch_component]:<https://pub.dev/packages/branch_component>
