@@ -7,7 +7,7 @@
 Flutter My Lib: 
   * [Slider captchar][slider_captcha_link]  [Link Demo][slider_link_demo]
   * [Flash card][flash_card_link] 
-  * [Branch Component][branch_component]
+  * [Mind map][branch_component]
   * IDE download:
   * [Tool code gen][tool_code_gen]]
   * [Easy queue][easy_queue_link]
@@ -44,4 +44,4 @@ Here are some ideas to get you started:
 [flash_card_link]:<https://pub.dev/packages/flash_card>
 [tool_code_gen]:<https://briantv98.github.io/flutter_tool_gen/>
 [easy_queue_link]:<https://pub.dev/packages/easy_queue>
-[branch_component]:<https://pub.dev/packages/branch_component>
+[branch_component]:<https://pub.dev/packages/mind_map>
