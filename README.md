@@ -4,7 +4,7 @@
 
 💬 How to reach me: 
 * email/skype:tranhieuglpk@gmail.com
-* facebook: [Tran Van Hieu][facbooke_link] 
+* facebook: [Tran Van Hieu][facebook_link] 
 * zalo: +84335286360
 * linker: [tranhieu][you_linker]
 
@@ -37,7 +37,7 @@ Flutter My Lib:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ASC VN
+- 🔭 I’m currently working on UPOS VN
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
