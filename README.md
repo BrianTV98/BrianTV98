@@ -4,11 +4,11 @@
 
 💬 How to reach me: 
 * email/skype:tranhieuglpk@gmail.com
-* facebook: https://www.facebook.com/haylachinhminh1998
+* facebook: [Tran Van Hieu][facbooke_link] 
 * zalo: +84335286360
-* linker: https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-52a2471aa/
+* linker: [tranhieu][you_linker]
 
-Flutter channel: https://www.youtube.com/channel/UC7--DY-ln2E5vRMrOW-HYkQ
+Flutter channel: [youtobe][youtobe_link]
 
 
 Flutter My Lib: 
@@ -52,3 +52,8 @@ Here are some ideas to get you started:
 [tool_code_gen]:<https://briantv98.github.io/flutter_tool_gen/>
 [easy_queue_link]:<https://pub.dev/packages/easy_queue>
 [branch_component]:<https://pub.dev/packages/mind_map>
+
+
+[youtobe_link]: <https://www.youtube.com/channel/UC7--DY-ln2E5vRMrOW-HYkQ>
+[you_linker]: <https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-52a2471aa/>
+[facebook_link]: <https://www.facebook.com/haylachinhminh1998>
