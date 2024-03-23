@@ -2,7 +2,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=BrianTV98&count_private=true&show_icons=true&theme=radical)
 
 
-💬 How to reach me: email: tranhieuglpk@gmail.com
+💬 How to reach me: 
+      email/skype:tranhieuglpk@gmail.com
+      facebook: https://www.facebook.com/haylachinhminh1998
+      zalo: +84335286360
+      linker: https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-52a2471aa/
 
 Flutter My Lib: 
   * [Slider captchar][slider_captcha_link]  [Link Demo][slider_link_demo]
