@@ -8,6 +8,9 @@
 * zalo: +84335286360
 * linker: https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-52a2471aa/
 
+Flutter channel: https://www.youtube.com/channel/UC7--DY-ln2E5vRMrOW-HYkQ
+
+
 Flutter My Lib: 
   * [Slider captchar][slider_captcha_link]  [Link Demo][slider_link_demo]
   * [Flash card][flash_card_link] 
