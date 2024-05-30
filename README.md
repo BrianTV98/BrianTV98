@@ -18,6 +18,7 @@ Flutter My Lib:
   * IDE download:
   * [Tool code gen][tool_code_gen]]
   * [Easy queue][easy_queue_link]
+  * [Supper printer][supper_printer_link]
   
   
 
@@ -57,3 +58,4 @@ Here are some ideas to get you started:
 [youtobe_link]: <https://www.youtube.com/channel/UC7--DY-ln2E5vRMrOW-HYkQ>
 [you_linker]: <https://www.linkedin.com/in/hi%E1%BA%BFu-tr%E1%BA%A7n-52a2471aa/>
 [facebook_link]: <https://www.facebook.com/haylachinhminh1998>
+[supper_printer_link]: <https://github.com/BrianTV98/supper_printer>
